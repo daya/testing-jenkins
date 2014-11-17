@@ -1,1 +1,1 @@
-echo "sleeping for 15 seconds"; sleep 15; echo "woke up after 15 seconds"
+echo "sleeping for 5 seconds"; sleep 5; echo "woke up after 5 seconds"

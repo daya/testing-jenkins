@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "returning false"
-false
+echo "returning true again"
+true
