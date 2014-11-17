@@ -1,2 +1,3 @@
 #!/bin/sh
-false
+echo "returning true"
+true
